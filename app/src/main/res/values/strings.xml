@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Smart Poll</string>
+    <string name="smart">SMART</string>
+    <string name="polling">POLL</string>
+    <string name="enterkey">Enter Key</string>
+    <string name="makepoll">Make Poll</string>
+    <string name="checknetwork">Checking Network...</string>
+    <string name="refresh">Refresh</string>
+    <string name="nointernet">No Internet Connection</string>
+    <string name="op1">Option1</string>
+    <string name="op2">Option2</string>
+    <string name="op3">Option3</string>
+    <string name="op4">Option4</string>
+    <string name="submit">Submit</string>
+    <string name="link">smartpolling.herokuapp.com</string>
+    <string name="next">Next</string>
+    <string name="sub_dn">Submission Done. \n Thank You for your response</string>
+    <string name="logo">Logo</string>
+    <string name="Main_hvU">Tried Smart Polling?</string>
+    <string name="v">v 1.0</string>
+    <string name="wrngvl">Key could not be found. Please try again.</string>
+</resources>
